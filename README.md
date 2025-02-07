@@ -1,2 +1,2 @@
 # CODSOFT
-For Tech Internships task
+For Tech Internship tasks
