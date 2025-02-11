@@ -11,5 +11,5 @@
 ## Task 3: Calculator App
 - Description: A simple web-based calculator.
 - Tech Stack: HTML, CSS, JavaScript.
-- [View Code](./Task%202%20-%20Calculator%20App)
+- [View Code](https://github.com/Reshma741/CODSOFT/blob/main/Task%20-3/Calculator%20app/calculator.html)
 
